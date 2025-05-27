@@ -96,7 +96,7 @@ Special thanks to our incredible team:
 - **Florentin Belfio**
 - **Heng Tang**
 - **Rick Yabuki-Soh**
-- **Yash Sethi**
+- **Arturo Madina**
 
 ---
 
